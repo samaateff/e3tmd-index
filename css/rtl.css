@@ -1561,10 +1561,15 @@ footer .container .row.align-items-center{
 .calender-section-mob.faqs{
     padding: 5em 0em 4.5em 0;
 }
+footer  p.text-right.mb-0.fs-16{
+    text-align: center !important;
+    margin: auto;
+ }
   }
   @media (min-width:768px) and (max-width:991px){
  footer   .col-md-3.col-12.mb-7.mb-md-8.mb-lg-0    .d-flex{
        display: block !important;
     }
-  
+ 
+   
   }
