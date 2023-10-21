@@ -1442,6 +1442,9 @@ margin: 2em 0;
     .accordion h5 {
         font-size: 16px !important;
     }
+    .home-content h2 {
+        margin-bottom: 0.7em;
+    }
 @media (max-width:1200px){
     .accordion h5 {
         font-size: 12px !important;
