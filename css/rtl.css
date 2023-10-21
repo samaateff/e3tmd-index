@@ -1423,9 +1423,7 @@ margin: 2em 0;
     .accordion{
         text-align: right;
     }
-    .accordion h5 {
-        font-size: 12px !important;
-    }
+ 
     .home-section #exampleModall
         .table th, .table td {
            
@@ -1441,8 +1439,13 @@ margin: 2em 0;
     .calender-section-mob.faqs{
         padding: 7em 0em 5em 0;
     }
+    .accordion h5 {
+        font-size: 16px !important;
+    }
 @media (max-width:1200px){
- 
+    .accordion h5 {
+        font-size: 12px !important;
+    }
     .home-desc{
         padding: 15px;
     }
