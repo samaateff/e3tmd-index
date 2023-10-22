@@ -1352,8 +1352,9 @@ color: #6E6F6F;
     .contact-info .list-unstyled{
         padding: 1em 0;
     }
-    footer    .list-unstyled{
-        padding:0.2m 0 1.5em 0;
+  
+    footer .list-unstyled {
+        padding: 0.2em 0 1.5em 0;
     }
     .contact-info svg{
         max-width: 100% !important;
